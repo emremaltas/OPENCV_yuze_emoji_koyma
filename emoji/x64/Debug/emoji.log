@@ -1,0 +1,90 @@
+﻿  Kaynak.cpp
+C:\Users\User\source\repos\emoji\emoji\Kaynak.cpp(37,79): warning C4244: 'bağımsız değişken': 'int' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\User\source\repos\emoji\emoji\Kaynak.cpp(38,71): warning C4244: 'bağımsız değişken': 'int' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\User\source\repos\emoji\emoji\Kaynak.cpp(38,50): warning C4244: 'bağımsız değişken': 'int' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\User\source\repos\emoji\emoji\Kaynak.cpp(38,103): warning C4244: 'bağımsız değişken': 'int' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\User\source\repos\emoji\emoji\Kaynak.cpp(40,69): warning C4244: 'bağımsız değişken': '_Tp' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+C:\Users\User\source\repos\emoji\emoji\Kaynak.cpp(40,57): warning C4244: 'bağımsız değişken': '_Tp' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+C:\Users\User\source\repos\emoji\emoji\Kaynak.cpp(40,105): warning C4244: 'bağımsız değişken': '_Tp' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+C:\Users\User\source\repos\emoji\emoji\Kaynak.cpp(40,90): warning C4244: 'bağımsız değişken': '_Tp' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+C:\Users\User\source\repos\emoji\emoji\Kaynak.cpp(41,72): warning C4244: 'bağımsız değişken': '_Tp' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+C:\Users\User\source\repos\emoji\emoji\Kaynak.cpp(41,42): warning C4244: 'bağımsız değişken': '_Tp' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+C:\Users\User\source\repos\emoji\emoji\Kaynak.cpp(42,66): warning C4244: 'bağımsız değişken': '_Tp' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+C:\Users\User\source\repos\emoji\emoji\Kaynak.cpp(42,46): warning C4244: 'bağımsız değişken': 'int' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=float
+          ]
+  emoji.vcxproj -> C:\Users\User\source\repos\emoji\x64\Debug\emoji.exe
