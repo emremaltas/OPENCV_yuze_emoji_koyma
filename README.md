@@ -1,2 +1,2 @@
 # emoji
-Yüzü algılayıp  emoji koyan yazılım 
+Yüz kordinatlarını algılayıp yüzü çevreleyen bir dikdörtgen oluşturuyor ve ardından bu dikdötgenin sınırları  içine emoji koyuyor. 
